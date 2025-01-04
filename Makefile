@@ -1,6 +1,5 @@
 obj-m += apple-ibridge.o
-obj-m += apple-ib-tb.o
-obj-m += apple-ib-als.o
+obj-m += apple-touchbar.o
 
 KVERSION := $(KERNELRELEASE)
 ifeq ($(origin KERNELRELEASE), undefined)
