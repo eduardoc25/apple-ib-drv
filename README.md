@@ -23,7 +23,6 @@ Build (local)
 
 	sudo modprobe apple-ibridge
 	sudo modprobe apple-touchbar
-
 Validation
 ----------
 
